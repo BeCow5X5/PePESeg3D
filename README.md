@@ -184,3 +184,6 @@ Built on [3D Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-spl
 
 The rasterizers under `submodules/` are forks of the 3DGS rasterizer and inherit its license;
 `diff-gaussian-rasterization_contrastive_f` follows SAGA. See `LICENSE` for this repository.
+
+This research was supported by Basic Science Research Program through the National Research Foundation of Korea(NRF) funded by the Ministry of Education(RS-2025-25404201).
+This work was supported by the National Research Foundation of Korea(NRF) grant funded by the Korea government(MSIT) (RS-2026-25470670).
