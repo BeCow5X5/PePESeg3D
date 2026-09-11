@@ -1,0 +1,35 @@
+# --- outputs ---
+output/
+output_densefix/
+output_images/
+segmentation_samples/
+logs/
+*.log
+.lerf_eval.log
+.run_lerf_eval.sh
+.chain_ramen.sh
+env.sh
+wandb/
+
+# --- local environment (built CUDA extensions, checkpoints) ---
+.envlibs/
+
+# --- build artifacts ---
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.egg-info/
+*.so
+
+# --- scratch ---
+boundary_map.png
+debug_patches/
+*.csv
+*.swp
+.DS_Store
+NOTES_paper_code_audit.md
+
+# --- externally cloned dependencies (see README "Environment") ---
+third_party/segment-anything/
+Grounded-Segment-Anything/
