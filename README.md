@@ -19,7 +19,7 @@ multi-scale 3D Gaussian Splatting segmentation pipeline:
 
 ## Installation
 
-Tested on a single RTX 4090 and RTX 3090 with **Python 3.11, PyTorch 2.6.0, CUDA 11.8**.
+Tested on a single RTX 4090 with **Python 3.11, PyTorch 2.6.0, CUDA 11.8**.
 
 ```bash
 git clone https://github.com/BeCow5X5/PePESeg3D.git
