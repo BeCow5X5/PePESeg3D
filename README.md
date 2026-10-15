@@ -1,6 +1,6 @@
 # PePESeg3D: Perception Prior Enhances Multi-Scale Segmentation for 3D Gaussian Splatting
 
-Official PyTorch implementation of **PePESeg3D** (BMVC 2026).
+**BMVC 2026** | [Paper (arXiv)](https://arxiv.org/abs/2609.28645)
 
 <p align="center"><img src="assets/teaser.gif" width="100%"></p>
 
