@@ -187,3 +187,17 @@ The rasterizers under `submodules/` are forks of the 3DGS rasterizer and inherit
 
 This research was supported by Basic Science Research Program through the National Research Foundation of Korea(NRF) funded by the Ministry of Education(RS-2025-25404201).
 This work was supported by the National Research Foundation of Korea(NRF) grant funded by the Korea government(MSIT) (RS-2026-25470670).
+
+
+## Citation
+
+If you find our work useful in your research, please consider citing:
+
+```
+@article{choi2026pepeseg3d,
+  title={PePESeg3D: Perception Prior Enhances Multi-Scale Segmentation for 3D Gaussian Splatting},
+  author={Choi, Sungjae and Koh, Seunghee and Kim, Junmo},
+  journal={arXiv preprint arXiv:2609.28645},
+  year={2026}
+}
+```
